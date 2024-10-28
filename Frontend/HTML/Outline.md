@@ -12,9 +12,3 @@
 | 9        | **Accessibility**               | Learn best practices for making your HTML accessible, including ARIA roles and semantic HTML.                                                      | ♿ (Accessibility) |
 | 10       | **Building a Basic Webpage**    | Apply what you’ve learned by creating a simple webpage that incorporates all the concepts covered.                                                | 🌐 (Webpage)      |
 
-### Next Steps
-1. **Practice**: Build small projects using the topics learned.
-2. **Review**: Go back to the topics as needed to reinforce your understanding.
-3. **Explore**: Once comfortable with the basics, look into advanced topics like HTML5 features and APIs.
-
-Feel free to adjust the icons as needed or let me know if you'd like to add anything else!
