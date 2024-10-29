@@ -1,4 +1,4 @@
-Here's an expanded table for **Fonts & Text Styling** with additional properties and their descriptions:
+ **Fonts & Text Styling** with additional properties and their descriptions:
 
 ---
 
