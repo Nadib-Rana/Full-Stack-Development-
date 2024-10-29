@@ -95,12 +95,12 @@ Here’s how the box is structured based on the Box Model:
 +-------------------------------------------+
 |                   Margin                  |  <-- 20px margin
 |  +-------------------------------------+  |
-|  |              Border                |  |  <-- 5px solid blue border
-|  |  +-----------------------------+  |  |
-|  |  |         Padding            |  |  |  <-- 15px padding
-|  |  |  This is the content area  |  |  |
-|  |  |        inside the box      |  |  |
-|  |  +-----------------------------+  |  |
+|  |              Border                 |  |  <-- 5px solid blue border
+|  |  +-----------------------------+    |  |
+|  |  |         Padding             |    |  |  <-- 15px padding
+|  |  |  This is the content area   |    |  |
+|  |  |        inside the box       |    |  |
+|  |  +-----------------------------+    |  |
 |  +-------------------------------------+  |
 |                                           |
 +-------------------------------------------+
