@@ -1,0 +1,64 @@
+### 🔹 Scope and Hoisting
+
+#### **1. Scope**
+Scope determines the accessibility of variables in your code. In JavaScript, there are three main types of scope: global, function, and block scope.
+
+- **Global Scope**: Variables declared outside of any function are in the global scope and can be accessed anywhere in your code.
+  ```javascript
+  let globalVar = "I'm global!";
+
+  function showGlobal() {
+      console.log(globalVar); // Accessible
+  }
+
+  showGlobal(); // Output: I'm global!
+  ```
+
+- **Function Scope**: Variables declared within a function are in the function scope and can only be accessed within that function.
+  ```javascript
+  function myFunction() {
+      let localVar = "I'm local!";
+      console.log(localVar); // Accessible
+  }
+
+  myFunction(); // Output: I'm local!
+  console.log(localVar); // Error: localVar is not defined
+  ```
+
+- **Block Scope**: Variables declared within curly braces `{}` (like inside loops or conditionals) using `let` or `const` are block-scoped.
+  ```javascript
+  if (true) {
+      let blockVar = "I'm block-scoped!";
+      console.log(blockVar); // Accessible
+  }
+
+  console.log(blockVar); // Error: blockVar is not defined
+  ```
+
+#### **2. Hoisting**
+Hoisting is a JavaScript mechanism where variables and function declarations are moved to the top of their containing scope during the compilation phase.
+
+- **Variable Hoisting**: Only the declaration is hoisted, not the initialization. If you try to access a variable before it is declared, it will return `undefined`.
+  ```javascript
+  console.log(hoistedVar); // Output: undefined
+  var hoistedVar = "I am hoisted!";
+  ```
+
+- **Function Hoisting**: Function declarations are fully hoisted, meaning you can call a function before its declaration.
+  ```javascript
+  console.log(hoistedFunction()); // Output: "I'm a hoisted function!"
+
+  function hoistedFunction() {
+      return "I'm a hoisted function!";
+  }
+  ```
+
+- **Let and Const Hoisting**: Variables declared with `let` and `const` are also hoisted, but they cannot be accessed until the declaration is encountered (Temporal Dead Zone).
+  ```javascript
+  console.log(letVar); // Error: Cannot access 'letVar' before initialization
+  let letVar = "I am not hoisted!";
+
+  console.log(constVar); // Error: Cannot access 'constVar' before initialization
+  const constVar = "I am not hoisted!";
+  ```
+
