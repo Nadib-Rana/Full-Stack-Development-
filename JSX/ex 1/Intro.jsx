@@ -17,4 +17,3 @@ function Home() {  // Ensure the function name is 'Home' with a capital H
 }
 
 export default Home;  // Export 'Home', matching the function name exactly
-
