@@ -1,6 +1,5 @@
 ---
-
-### **React Roadmap**
+### React Roadmap:
 
 #### **Stage 1: Setup & Basics**
 - **Start Node**
