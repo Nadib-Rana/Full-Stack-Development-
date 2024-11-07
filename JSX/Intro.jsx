@@ -1,6 +1,6 @@
 import React from 'react';
 
-import './home.css';
+import './intro.css';
 
 function Home() {  // Ensure the function name is 'Home' with a capital H
   return (
