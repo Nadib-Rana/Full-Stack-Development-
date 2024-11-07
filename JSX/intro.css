@@ -1,0 +1,9 @@
+.btn_agree{
+    padding: 0 10px;
+    margin: 10px;
+}
+.btn_agree:hover{
+    background-color: aqua;
+    border: 2px solid black;
+    border-radius: 5%;
+}
