@@ -1,4 +1,4 @@
----
+
 ### React Roadmap:
 
 #### **Stage 1: Setup & Basics**
@@ -16,7 +16,7 @@
     - 🔄 Master prop passing and state management basics
     - ✅ **Goal Checkpoint**: Create a simple multi-component app
 
----
+
 
 #### **Stage 2: Core Concepts**
 - **Hooks**
