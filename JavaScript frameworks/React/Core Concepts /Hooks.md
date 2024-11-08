@@ -114,4 +114,4 @@ With the foundational understanding of `useState` and `useEffect`, you can now i
 ### **Path Summary**
 1. **useState and useEffect Hooks** → 2. **Event Handling**
 
-By mastering these hooks and integrating them with event handling, you can manage state changes and side effects effectively in React function components. 
+By mastering these hooks and integrating them with event handling, you can manage state changes and side effects effectively in React function components.
