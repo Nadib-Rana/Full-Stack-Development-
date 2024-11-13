@@ -1,0 +1,1 @@
+JSX is a syntax extension for javaScipt thst you write HTML-like markup inside a JavaScript file.
