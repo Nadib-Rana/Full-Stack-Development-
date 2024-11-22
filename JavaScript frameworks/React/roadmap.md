@@ -72,4 +72,4 @@
 
 ---
 
-This virtual graph roadmap can serve as a structured guide as you work through each topic and connect concepts. Let me know if you’d like a visual tool suggestion or any additions!
+This virtual graph roadmap can serve as a structured guide as you work through each topic and connect concepts.
