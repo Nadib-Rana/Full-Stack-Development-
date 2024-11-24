@@ -1,6 +1,4 @@
-
 ### React Roadmap:
-
 #### **Stage 1: Setup & Basics**
 - **Start Node**
   - **Environment Setup**
