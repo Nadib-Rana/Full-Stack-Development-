@@ -69,5 +69,4 @@
   - ✅ **Goal Checkpoint**: Publish a production-ready app
 
 ---
-
 This virtual graph roadmap can serve as a structured guide as you work through each topic and connect concepts.
