@@ -1,4 +1,5 @@
-```
+
+``` .js
 const domContainer = document.getElementById("root");
 
 // Create a React element
