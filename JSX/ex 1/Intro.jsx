@@ -20,4 +20,5 @@ function Home() {
   );
 }
 
-export default Home;  // Export the Home component so it can be imported and used in other files
+export default Home;  
+// Export the Home component so it can be imported and used in other files
