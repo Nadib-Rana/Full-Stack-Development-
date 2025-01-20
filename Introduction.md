@@ -3,4 +3,4 @@ Full Stack Development is the art of building complete web applications from sta
 
 - **Backend Power** 💻: Behind the scenes, Full Stack Developers use languages like **Node.js** or **Python** to build the engine that powers the app, handling everything from data processing to security and connecting to databases like **MongoDB** or **PostgreSQL**.
 
-- **Seamless Integration** 🔗: They connect the frontend and backend smoothly, ensuring the app runs seamlessly, providing a fast and secure user experience.
+- **Seamless Integration** 🔗: They connect the frontend and backend smoothly, ensuring the app runs seamlessly, providing a fast and secure user experience
