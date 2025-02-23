@@ -18,7 +18,6 @@
    - Popular frameworks for building interactive and scalable user interfaces.
 
 ---
-
 ### **Backend Technologies** 💻
 1. **Node.js** 🛠️  
    - JavaScript runtime that allows for server-side programming, enabling full-stack development with one language.
