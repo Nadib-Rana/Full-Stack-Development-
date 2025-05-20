@@ -16,7 +16,6 @@
 
 4. **React / Vue / Angular** 🌐  
    - Popular frameworks for building interactive and scalable user interfaces.
-
 ---
 ### **Backend Technologies** 💻
 1. **Node.js** 🛠️  
