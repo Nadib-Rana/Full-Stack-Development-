@@ -29,5 +29,5 @@
 
 4. **APIs (REST, GraphQL)** 🔗  
    - Enable communication between frontend and backend, connecting your application to external data or services.
-vvvvvvvvvvvv
+
 ---
