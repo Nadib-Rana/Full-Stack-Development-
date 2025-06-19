@@ -16,7 +16,7 @@
 
 4. **React / Vue / Angular** 🌐  
    - Popular frameworks for building interactive and scalable user interfaces.
----
+---kp
 ### **Backend Technologies** 💻
 1. **Node.js** 🛠️  
    - JavaScript runtime that allows for server-side programming, enabling full-stack development with one language.
