@@ -22,7 +22,7 @@
    - JavaScript runtime that allows for server-side programming, enabling full-stack development with one language.
 
 2. **Express** 🚀  
-   - Fast, minimalist framework for building web applications on top of Node.js.
+   - Fast, minimalist framework for building web applications on top of Node.js..
 
 3. **Databases (MongoDB, SQL)** 📊  
    - Essential for data storage; MongoDB offers flexibility with JSON-like documents, while SQL provides structured, relational databases.
