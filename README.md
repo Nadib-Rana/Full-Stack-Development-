@@ -28,6 +28,6 @@
    - Essential for data storage; MongoDB offers flexibility with JSON-like documents, while SQL provides structured, relational databases.
 
 4. **APIs (REST, GraphQL)** 🔗  
-   - Enable communication between frontend and backend, connecting your application to external data or services.
+   - Enable communication between frontend and backend, connecting your application to external data or services....
 
 ---
