@@ -1,6 +1,6 @@
 
 # Full-Stack-Development-
-![image](https://github.com/user-attachments/assets/e7ca790f-7bd2-4167-9217-fe8deead15ce)
+![image](https://github.com/user-attachments/assets/e7ca790f-7bd2-4167-9217-fe8deead15ce) .
 
 ---
 
